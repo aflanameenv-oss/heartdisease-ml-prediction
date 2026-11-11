@@ -1,4 +1,4 @@
-# Heart Failure Clinical Risk Prediction (CSE570)
+# Heart Failure Clinical Risk Prediction 
 
 End-to-end supervised classification pipeline predicting cardiovascular disease from clinical and ECG parameters.
 
